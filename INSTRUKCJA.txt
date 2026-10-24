@@ -1,0 +1,7 @@
+ŻYCIE BIZNESMENA 7.0
+
+Opublikuj index.html, manifest.json i sw.js na darmowym hostingu HTTPS (podmień stare pliki). Na iPhonie otwórz publiczny adres w Safari.
+
+Nowości 7.0: system tur (1 tura = 1 miesiąc); wszystkie listy posortowane od najtańszych do najdroższych; rzadsze zdarzenia negatywne i nowe zdarzenia wpływające na firmy i całe branże; nowa zakładka "Moje biznesy"; bankructwo dopiero poniżej -10 000 zł; 13 nowych biznesów.
+
+Stare zapisy (lokalne i kod zapisu) są przeliczane automatycznie (30 dni = 1 tura). Mimo to zachowaj kod zapisu przed aktualizacją gry.
