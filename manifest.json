@@ -1,10 +1,10 @@
 {
-  "name": "Życie Biznesmena 8.4",
+  "name": "Życie Biznesmena 9.0",
   "short_name": "Biznesmen",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f3f6f3",
-  "theme_color": "#10281e",
+  "background_color": "#f1f6fc",
+  "theme_color": "#3b97dc",
   "lang": "pl",
   "icons": []
 }

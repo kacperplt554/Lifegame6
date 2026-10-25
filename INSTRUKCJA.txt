@@ -1,21 +1,23 @@
-ŻYCIE BIZNESMENA 8.4
+ŻYCIE BIZNESMENA 9.0
 
-Nowości 8.4: osobny panel siłowni (cena karnetu, sprzęt sztuka po sztuce, trenerzy, rozbudowa budynku); rozbudowany marketing wpływający na wszystkie firmy; spółka matka wymagana powyżej 5 firm; ok. 60 aut w salonie i ok. 34 w wypożyczalni, z prawdziwymi nazwami i rokiem produkcji (tylko do użytku własnego).
+Nowości 9.0: motyw jasny (jasnoniebieski) i ciemny z przełącznikiem w nagłówku; nazwa spółki matki zawsze z dopiskiem Sp. z o.o.; klub piłkarski w nowej zakładce (polska piramida lig od Klasy B do Ekstraklasy, zakładanie lub przejmowanie prawdziwych klubów, zarządzanie składem, trenerem, stadionem, akademią, biletami i taktyką, sezony, awanse i spadki).
 
-Nowości 8.4: zlecenia specjalne w dyspozytorni (x1,5-x3,5); menedżer zawsze obsadza wolne pojazdy z kierowcami, a tablica ma zawsze wystarczająco zleceń; interaktywna siłownia (trenerzy, budynek rosnący z poziomem); więcej aut w salonie i wypożyczalni z rokiem produkcji; podgląd zainwestowanej kwoty w każdej firmie.
+Nowości 9.0: osobny panel siłowni (cena karnetu, sprzęt sztuka po sztuce, trenerzy, rozbudowa budynku); rozbudowany marketing wpływający na wszystkie firmy; spółka matka wymagana powyżej 5 firm; ok. 60 aut w salonie i ok. 34 w wypożyczalni, z prawdziwymi nazwami i rokiem produkcji (tylko do użytku własnego).
 
-Nowości 8.4: poziom firmy transportowej i wypożyczalni zwiększa limit floty; obie firmy oznaczone jako interaktywne w zakładce Firmy; zlecenia transportowe płacą o 10% więcej.
+Nowości 9.0: zlecenia specjalne w dyspozytorni (x1,5-x3,5); menedżer zawsze obsadza wolne pojazdy z kierowcami, a tablica ma zawsze wystarczająco zleceń; interaktywna siłownia (trenerzy, budynek rosnący z poziomem); więcej aut w salonie i wypożyczalni z rokiem produkcji; podgląd zainwestowanej kwoty w każdej firmie.
 
-Nowości 8.4: prognoza zysku pod suwakami; szkolenia tylko per firma ("Szkolenie pracowników"); kilka firm tego samego rodzaju zamiast oddziałów; popyt łagodniej wpływa na przychody; wypożyczalnia z własną flotą i cenami; promocje; menedżer logistyki; sprzedaż firmy transportowej; wymagania reputacji dla droższych firm; oszustwo klientów (ryzyko 25%).
+Nowości 9.0: poziom firmy transportowej i wypożyczalni zwiększa limit floty; obie firmy oznaczone jako interaktywne w zakładce Firmy; zlecenia transportowe płacą o 10% więcej.
 
-Nowości 8.4: kredyty na dowolną kwotę; wskaźniki (reputacja, majątek, dług) na pulpicie; jakość podnoszona szkoleniami (bez suwaka); konkurencja jako popyt na branżę (odświeżany co 6 tur) z paskami popytu i widoczną ceną otwarcia; rozbudowane kasyno z poziomami VIP; Firma transportowa z dyspozytornią (pojazdy, kierowcy, zlecenia, trasy).
+Nowości 9.0: prognoza zysku pod suwakami; szkolenia tylko per firma ("Szkolenie pracowników"); kilka firm tego samego rodzaju zamiast oddziałów; popyt łagodniej wpływa na przychody; wypożyczalnia z własną flotą i cenami; promocje; menedżer logistyki; sprzedaż firmy transportowej; wymagania reputacji dla droższych firm; oszustwo klientów (ryzyko 25%).
 
-Nowości 8.4: rozbudowany system kredytów - 5 ofert (od mikropożyczki do kredytu rozwojowego), wiele kredytów naraz, limit zadłużenia zależny od majątku, reputacji i zysku, wymagania, spłata przedterminowa z bonusem. Stary kredyt z zapisu jest przeliczany automatycznie.
+Nowości 9.0: kredyty na dowolną kwotę; wskaźniki (reputacja, majątek, dług) na pulpicie; jakość podnoszona szkoleniami (bez suwaka); konkurencja jako popyt na branżę (odświeżany co 6 tur) z paskami popytu i widoczną ceną otwarcia; rozbudowane kasyno z poziomami VIP; Firma transportowa z dyspozytornią (pojazdy, kierowcy, zlecenia, trasy).
 
-Nowości 8.4: cała ekonomia miesięczna (mnożnik MF w kodzie, domyślnie 5); widoczne efekty szkolenia, negocjacji z dostawcami i badania rynku; rozbudowane zarządzanie firmami (płace, gotowe strategie, wyposażenie, program lojalnościowy, ubezpieczenie, analiza przychodu, zmiana nazwy, sprzedaż).
+Nowości 9.0: rozbudowany system kredytów - 5 ofert (od mikropożyczki do kredytu rozwojowego), wiele kredytów naraz, limit zadłużenia zależny od majątku, reputacji i zysku, wymagania, spłata przedterminowa z bonusem. Stary kredyt z zapisu jest przeliczany automatycznie.
+
+Nowości 9.0: cała ekonomia miesięczna (mnożnik MF w kodzie, domyślnie 5); widoczne efekty szkolenia, negocjacji z dostawcami i badania rynku; rozbudowane zarządzanie firmami (płace, gotowe strategie, wyposażenie, program lojalnościowy, ubezpieczenie, analiza przychodu, zmiana nazwy, sprzedaż).
 
 Opublikuj index.html, manifest.json i sw.js na darmowym hostingu HTTPS (podmień stare pliki). Na iPhonie otwórz publiczny adres w Safari.
 
-Nowości 8.4: system tur (1 tura = 1 miesiąc); wszystkie listy posortowane od najtańszych do najdroższych; rzadsze zdarzenia negatywne i nowe zdarzenia wpływające na firmy i całe branże; nowa zakładka "Moje biznesy"; bankructwo dopiero poniżej -10 000 zł; 13 nowych biznesów.
+Nowości 9.0: system tur (1 tura = 1 miesiąc); wszystkie listy posortowane od najtańszych do najdroższych; rzadsze zdarzenia negatywne i nowe zdarzenia wpływające na firmy i całe branże; nowa zakładka "Moje biznesy"; bankructwo dopiero poniżej -10 000 zł; 13 nowych biznesów.
 
 Stare zapisy (lokalne i kod zapisu) są przeliczane automatycznie (30 dni = 1 tura). Mimo to zachowaj kod zapisu przed aktualizacją gry.
